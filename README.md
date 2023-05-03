@@ -13,8 +13,3 @@
 <li><p>📫 How to reach me: <strong>Discord: Snow#8008</strong></p>
 </li>
 
-
- <div>
-  <a href="https://github.com/AquaticLabs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AquaticLabs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
