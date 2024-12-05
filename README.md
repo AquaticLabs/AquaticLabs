@@ -9,6 +9,6 @@
 </li>
 <li><p>💻 My extremely WIP Website: <a href="https://aquaticlabs.io">Aquatic Labs Website</a></p>
 </li>
-<li><p>📫 How to reach me: <strong>Discord: Snow#8008</strong></p>
+<li><p>📫 How to reach me: <strong>Discord: extremesnow</strong></p>
 </li>
 
